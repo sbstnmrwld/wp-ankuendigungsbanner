@@ -1,0 +1,20 @@
+.ab-announcement-bar {
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 10px 0;
+    text-align: center;
+    font-size: inherit;
+    line-height: 1.5;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.ab-announcement-link {
+    text-decoration: none;
+    color: #0073aa;
+    font-weight: bold;
+}
+
+.ab-announcement-link:hover {
+    color: #005177;
+}
