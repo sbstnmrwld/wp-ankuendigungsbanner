@@ -1,0 +1,22 @@
+.wrap h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+input[type="text"],
+select {
+    width: 100%;
+    max-width: 400px;
+}
+
+.updated {
+    background: #d4edda;
+    border-left: 4px solid #155724;
+    color: #155724;
+    padding: 10px;
+    margin-top: 10px;
+}
